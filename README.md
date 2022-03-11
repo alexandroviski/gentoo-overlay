@@ -1,4 +1,4 @@
-# Personal Gentoo overlay
+# Ungoogled-chromium Gentoo overlay
 
 ## Keywords description
 Throughout this overlay following keywords are used: **Missing**, **Testing**, **Stable**
